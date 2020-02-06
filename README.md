@@ -79,9 +79,3 @@ Typescript
 
 For better typescript highlight, it is recommend to install the [yats.vim](https://github.com/HerringtonDarkholme/yats.vim) syntax plugin.
 
-Screenshots
------------
-
-![typescript](screenshots/typescript.png)
-
-![html](screenshots/html.png)
