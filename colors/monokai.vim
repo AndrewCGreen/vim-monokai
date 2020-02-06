@@ -4,7 +4,7 @@
 " License:    MIT
 "
 " The colour palette is from http://www.colourlovers.com/
-" The original code is from https://github.com/crusoexia/vim-hybrid
+" The original code is from https://github.com/crusoexia/vim-monokai-
 
 " Initialisation
 " --------------
