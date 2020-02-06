@@ -1,10 +1,10 @@
 " File:       monokai.vim
-" Maintainer: Crusoe Xia (crusoexia)
-" URL:        https://github.com/crusoexia/vim-monokai
+" Maintainer: Andrew (andrewcgreen) 
+" URL:        https://github.com/andrewcgreen/vim-monokai
 " License:    MIT
 "
 " The colour palette is from http://www.colourlovers.com/
-" The original code is from https://github.com/w0ng/vim-hybrid
+" The original code is from https://github.com/crusoexia/vim-hybrid
 
 " Initialisation
 " --------------
