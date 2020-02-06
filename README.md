@@ -10,7 +10,7 @@ Install
 
 ### [vim-plug](https://github.com/junegunn/vim-plug)
 
-    Plug 'AndrewCGreen/vim-monokai'
+    Plug 'andrewcgreen/vim-monokai'
 
 ### Manually
 
