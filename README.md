@@ -1,7 +1,7 @@
 vim-monokai
 ===========
 
-Refined monokai color scheme for vim. 
+Refined monokai color scheme for vim. Forked from https://github.com/crusoexia/vim-monokai. 
 
 * The colour palette from [sickill/vim-monokai](https://github.com/sickill/vim-monokai). 
 
